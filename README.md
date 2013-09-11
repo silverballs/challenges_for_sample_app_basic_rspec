@@ -1,5 +1,5 @@
 o#The Exercises below are from the Learn Web Development with Rails book by Michael Hartl
-#Please visit the book at:  ruby.railstutorials.org and see chapter 3
+#Please visit the book at:  http://ruby.railstutorial.org and see chapter 3
 
 
 
