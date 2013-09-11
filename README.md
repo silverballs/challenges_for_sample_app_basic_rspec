@@ -1,11 +1,11 @@
-#The Excersises below are from the Learn Web Development with Rails book by Michael Hartl
+o#The Exercises below are from the Learn Web Development with Rails book by Michael Hartl
 #Please visit the book at:  ruby.railstutorials.org and see chapter 3
 
 
 
 
 
-Excersises:
+Exercises:
 
 1.  Make a Contact page for the sample app. Following the model in Listing 3.19, first write a test for the existence of a page at the URL /static_pages/contact by testing for the title “Ruby on Rails Tutorial Sample App | Contact”. Get your test to pass by filling the Contact page with the content from Listing 3.30. (This exercise is solved as part of Section 5.3.)
 
