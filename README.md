@@ -1,5 +1,5 @@
 #The Excersises below are from the Learn Web Development with Rails book by Michael Hartl
-#Please visis the book at:  ruby.railstutorials.org and see chapter 3
+#Please visit the book at:  ruby.railstutorials.org and see chapter 3
 
 
 
